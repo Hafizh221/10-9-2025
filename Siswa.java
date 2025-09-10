@@ -16,9 +16,7 @@ public class Siswa {
         }
 System.out.println("Rata rata nilai siswa adalah: " + (temp / NilaiAkhir));
 
-if (temp >=5) {
-    System.out.println("Maaf, Keterangan ini tidak valid");
-    
-}
+
     }
 }
+
